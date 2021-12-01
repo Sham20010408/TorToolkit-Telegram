@@ -11,7 +11,7 @@ except:
         BASE_URL_OF_BOT = "http://t.me/gdrivedsiuploaderbot_bot"
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 550
+        SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [-1001410465876]
@@ -21,7 +21,7 @@ except:
         GD_INDEX_URL = True
 
         # Time to wait before edit message
-        EDIT_SLEEP_SECS = 5
+        EDIT_SLEEP_SECS = 2
 
         # Telegram Upload Limit (in bytes)
         TG_UP_LIMIT = 2097152000
