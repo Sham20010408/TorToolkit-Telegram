@@ -21,7 +21,7 @@ except:
         GD_INDEX_URL = True
 
         # Time to wait before edit message
-        EDIT_SLEEP_SECS = 2
+        EDIT_SLEEP_SECS = 1
 
         # Telegram Upload Limit (in bytes)
         TG_UP_LIMIT = 2097152000
