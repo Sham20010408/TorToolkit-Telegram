@@ -8,7 +8,7 @@ except:
         API_HASH = "d1c1c9262bbae8f5eeb80ba47c9f3dff"
         API_ID = 1424314
         BOT_TOKEN = "2132684011:AAGOge2QHLj7yFm8WaA9iyXuPBFC99K9oW4"
-        BASE_URL_OF_BOT = "http://40.121.200.114"
+        BASE_URL_OF_BOT = "http://20.185.46.245"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -36,10 +36,10 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=sham2001 host=127.0.0.1 port=5432"
+        #DB_URI = "dbname=tortk user=postgres password=sham2001 host=127.0.0.1 port=5432"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
+        DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
         MEGA_ENABLE = False
