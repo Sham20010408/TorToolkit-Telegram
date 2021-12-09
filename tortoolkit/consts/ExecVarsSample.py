@@ -8,7 +8,7 @@ except:
         API_HASH = "d1c1c9262bbae8f5eeb80ba47c9f3dff"
         API_ID = 1424314
         BOT_TOKEN = "2132684011:AAGOge2QHLj7yFm8WaA9iyXuPBFC99K9oW4"
-        BASE_URL_OF_BOT = "http://t.me/gdrivedsiuploaderbot_bot"
+        BASE_URL_OF_BOT = "http://40.121.200.114"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "postgres://ngssouqqepytju:c9baec6c73362c438835a388c4219bd925577e788ea62f0e7b504dad872db80e@ec2-54-198-213-75.compute-1.amazonaws.com:5432/d6kif3vst3pch2"
+        DB_URI = ""
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
